@@ -1,4 +1,4 @@
-# Hi, I'm Alex-Microbio
+# Hi, I'm Alex Menk
 
 I'm passionate about the intersection of biotechnology, data science, and automation. My background blends microbiology, machine learning, and software development, allowing me to create scalable solutions that bridge scientific research and real-world applications.
 
