@@ -8,6 +8,7 @@ I'm passionate about the intersection of biotechnology, data science, and automa
 - Computer vision for microscopy and medical imaging
 - Algorithmic trading systems and data pipelines
 - Cloud services (AWS) and workflow automation
+- Socail Media Predictive Analytics (marketing and targeted engagement)
 
 ## Currently Learning
 - Advanced reinforcement learning techniques
